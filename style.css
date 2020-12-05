@@ -1,0 +1,28 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 12px;
+}
+
+.box{
+  text-align: center;
+  font-size: 10px;
+}
+
+footer {
+  font-weight: 300;
+  padding-top: 0.5em;
+  text-align: center;
+  color:#535353;
+  background-color: #ccc;
+  height: 100px;
+  width: 100%;
+}
